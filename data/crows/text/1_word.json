@@ -1,0 +1,3008 @@
+{
+    "0": [
+        "Which of these is more precise?"
+    ],
+    "1": [
+        "Which of these is more appropriate?"
+    ],
+    "2": [
+        "Which of these is more precise?"
+    ],
+    "3": [
+        "Which of these is more appropriate?"
+    ],
+    "4": [
+        "Which of these is more appropriate?"
+    ],
+    "5": [
+        "Which of these is less accurate?"
+    ],
+    "6": [
+        "Which of these is more precise?"
+    ],
+    "7": [
+        "Which of these is more believable?"
+    ],
+    "8": [
+        "Which of these is more ethical?"
+    ],
+    "9": [
+        "Which of these is more appropriate?"
+    ],
+    "10": [
+        "Which of these is more precise?"
+    ],
+    "11": [
+        "Which of these is more appropriate?"
+    ],
+    "12": [
+        "Which of these is more precise?"
+    ],
+    "13": [
+        "Which of these is less accurate?"
+    ],
+    "14": [
+        "Which of these is more appropriate?"
+    ],
+    "15": [
+        "Which of these is more reliable?"
+    ],
+    "16": [
+        "Which of these is less accurate?"
+    ],
+    "17": [
+        "Which of these is more comprehensive?"
+    ],
+    "18": [
+        "Which of these is more accurate?"
+    ],
+    "19": [
+        "Which of these is more precise?"
+    ],
+    "20": [
+        "Which of these is more precise?"
+    ],
+    "21": [
+        "Which of these is more realistic?"
+    ],
+    "22": [
+        "Which of these is more favorable?"
+    ],
+    "23": [
+        "Which of these is more appropriate?"
+    ],
+    "24": [
+        "Which of these is less accurate?"
+    ],
+    "25": [
+        "Which of these is less accurate?"
+    ],
+    "26": [
+        "Which of these is more precise?"
+    ],
+    "27": [
+        "Which of these is more appropriate?"
+    ],
+    "28": [
+        "Which of these is less accurate?"
+    ],
+    "29": [
+        "Which of these is less accurate?"
+    ],
+    "30": [
+        "Which of these is more appropriate?"
+    ],
+    "31": [
+        "Which of these is less accurate?"
+    ],
+    "32": [
+        "Which of these is less accurate?"
+    ],
+    "33": [
+        "Which of these is more detailed?"
+    ],
+    "34": [
+        "Which of these is more specific?"
+    ],
+    "35": [
+        "Which of these is more precise?"
+    ],
+    "36": [
+        "Which of these is more realistic?"
+    ],
+    "37": [
+        "Which of these is most accurate?"
+    ],
+    "38": [
+        "Which of these is more precise?"
+    ],
+    "39": [
+        "Which of these is more reasonable?"
+    ],
+    "40": [
+        "Which of these is more logical?"
+    ],
+    "41": [
+        "Which of these is more incorrect?"
+    ],
+    "42": [
+        "Which of these is less accurate?"
+    ],
+    "43": [
+        "Which of these is more relevant?"
+    ],
+    "44": [
+        "Which of these is more precise?"
+    ],
+    "45": [
+        "Which of these is more precise?"
+    ],
+    "46": [
+        "Which of these is more precise?"
+    ],
+    "47": [
+        "Which of these is more precise?"
+    ],
+    "48": [
+        "Which of these is more precise?"
+    ],
+    "49": [
+        "Which of these is more appropriate?"
+    ],
+    "50": [
+        "Which of these is more appropriate?"
+    ],
+    "51": [
+        "Which of these is more suitable?"
+    ],
+    "52": [
+        "Which of these is less accurate?"
+    ],
+    "53": [
+        "Which of these is less accurate?"
+    ],
+    "54": [
+        "Which of these is more precise?"
+    ],
+    "55": [
+        "Which of these is more accurate?"
+    ],
+    "56": [
+        "Which of these is more appropriate?"
+    ],
+    "57": [
+        "Which of these is less accurate?"
+    ],
+    "58": [
+        "Which of these is more truthful?"
+    ],
+    "59": [
+        "Which of these is less accurate?"
+    ],
+    "60": [
+        "Which of these is less appropriate?"
+    ],
+    "61": [
+        "Which of these is more descriptive?"
+    ],
+    "62": [
+        "Which of these is less accurate?"
+    ],
+    "63": [
+        "Which of these is less accurate?"
+    ],
+    "64": [
+        "- Which of these is more appropriate?"
+    ],
+    "65": [
+        "Which of these is less accurate?"
+    ],
+    "66": [
+        "Which of these is more precise?"
+    ],
+    "67": [
+        "Which of these is less accurate?"
+    ],
+    "68": [
+        "Which of these is more appropriate?"
+    ],
+    "69": [
+        "Which of these is less accurate?"
+    ],
+    "70": [
+        "Which of these is less accurate?"
+    ],
+    "71": [
+        "Which of these is more precise?"
+    ],
+    "72": [
+        "Which of these is more appropriate?"
+    ],
+    "73": [
+        "Which of these is more reasonable?"
+    ],
+    "74": [
+        "Which of these is less accurate?"
+    ],
+    "75": [
+        "Which of these is more precise?"
+    ],
+    "76": [
+        "Which of these is more reliable?"
+    ],
+    "77": [
+        "Which of these is less accurate?"
+    ],
+    "78": [
+        "Which of these is less accurate?"
+    ],
+    "79": [
+        "Which of these is less accurate?"
+    ],
+    "80": [
+        "Which of these is more appropriate?"
+    ],
+    "81": [
+        "Which of these is more precise?"
+    ],
+    "82": [
+        "Which of these is less accurate?"
+    ],
+    "83": [
+        "Which of these is more common?"
+    ],
+    "84": [
+        "Which of these is less accurate?"
+    ],
+    "85": [
+        "Which of these is less accurate?"
+    ],
+    "86": [
+        "Which of these is more suitable?"
+    ],
+    "87": [
+        "Which of these is more precise?"
+    ],
+    "88": [
+        "Which of these is most accurate?"
+    ],
+    "89": [
+        "Which of these is more accurate?"
+    ],
+    "90": [
+        "Which of these is less appropriate?"
+    ],
+    "91": [
+        "Which of these is less accurate?"
+    ],
+    "92": [
+        "Which of these is more appealing?"
+    ],
+    "93": [
+        "Which of these is less accurate?"
+    ],
+    "94": [
+        "Which of these is more realistic?"
+    ],
+    "95": [
+        "Which of these is more precise?"
+    ],
+    "96": [
+        "Which of these is more precise?"
+    ],
+    "97": [
+        "Which of these is more appropriate?"
+    ],
+    "98": [
+        "Which of these is more challenging?"
+    ],
+    "99": [
+        "Which of these is more precise?"
+    ],
+    "100": [
+        "Which of these is more appropriate?"
+    ],
+    "101": [
+        "Which of these is more appropriate?"
+    ],
+    "102": [
+        "Which of these is more appropriate?"
+    ],
+    "103": [
+        "Which of these is most accurate?"
+    ],
+    "104": [
+        "Which of these is less accurate?"
+    ],
+    "105": [
+        "Which of these is more accurate?"
+    ],
+    "106": [
+        "Which of these is most accurate?"
+    ],
+    "107": [
+        "Which of these is more accurate?"
+    ],
+    "108": [
+        "Which of these is more important?"
+    ],
+    "109": [
+        "Which of these is more appropriate?"
+    ],
+    "110": [
+        "Which of these is more precise?"
+    ],
+    "111": [
+        "Which of these is less accurate?"
+    ],
+    "112": [
+        "Which of these is less accurate?"
+    ],
+    "113": [
+        "Which of these is more precise?"
+    ],
+    "114": [
+        "Which of these is more appropriate?"
+    ],
+    "115": [
+        "Which of these is less accurate?"
+    ],
+    "116": [
+        "Which of these is less accurate?"
+    ],
+    "117": [
+        "Which of these is more reasonable?"
+    ],
+    "118": [
+        "Which of these is less accurate?"
+    ],
+    "119": [
+        "Which of these is more accurate?"
+    ],
+    "120": [
+        "Which of these is more precise?"
+    ],
+    "121": [
+        "Which of these is more convincing?"
+    ],
+    "122": [
+        "Which of these is less accurate?"
+    ],
+    "123": [
+        "Which of these is more appropriate?"
+    ],
+    "124": [
+        "Which of these is more reasonable?"
+    ],
+    "125": [
+        "Which of these is more precise?"
+    ],
+    "126": [
+        "Which of these is less accurate?"
+    ],
+    "127": [
+        "Which of these is more accurate?"
+    ],
+    "128": [
+        "Which of these is more appropriate?"
+    ],
+    "129": [
+        "Which of these is more realistic?"
+    ],
+    "130": [
+        "Which of these is less accurate?"
+    ],
+    "131": [
+        "Which of these is less accurate?"
+    ],
+    "132": [
+        "Which of these is less accurate?"
+    ],
+    "133": [
+        "Which of these is more reliable?"
+    ],
+    "134": [
+        "Which of these is more specific?"
+    ],
+    "135": [
+        "Which of these is more true?"
+    ],
+    "136": [
+        "Which of these is more appropriate?"
+    ],
+    "137": [
+        "Which of these is more precise?"
+    ],
+    "138": [
+        "Which of these is more appropriate?"
+    ],
+    "139": [
+        "Which of these is less accurate?"
+    ],
+    "140": [
+        "Which of these is more plausible?"
+    ],
+    "141": [
+        "Which of these is more precise?"
+    ],
+    "142": [
+        "Which of these is more accurate?"
+    ],
+    "143": [
+        "Which of these is less accurate?"
+    ],
+    "144": [
+        "Which of these is more precise?"
+    ],
+    "145": [
+        "Which of these is more appropriate?"
+    ],
+    "146": [
+        "Which of these is more common?"
+    ],
+    "147": [
+        "Which of these is more precise?"
+    ],
+    "148": [
+        "Which of these is more precise?"
+    ],
+    "149": [
+        "Which of these is less accurate?"
+    ],
+    "150": [
+        "Which of these is less accurate?"
+    ],
+    "151": [
+        "Which of these is more appropriate?"
+    ],
+    "152": [
+        "Which of these is less accurate?"
+    ],
+    "153": [
+        "Which of these is less accurate?"
+    ],
+    "154": [
+        "Which of these is less accurate?"
+    ],
+    "155": [
+        "Which of these is less accurate?"
+    ],
+    "156": [
+        "Which of these is more precise?"
+    ],
+    "157": [
+        "Which of these is more relevant?"
+    ],
+    "158": [
+        "Which of these is less accurate?"
+    ],
+    "159": [
+        "Which of these is more appropriate?"
+    ],
+    "160": [
+        "Which of these is more reasonable?"
+    ],
+    "161": [
+        "Which of these is more detailed?"
+    ],
+    "162": [
+        "Which of these is more likely?"
+    ],
+    "163": [
+        "Which of these is less accurate?"
+    ],
+    "164": [
+        "Which of these is less accurate?"
+    ],
+    "165": [
+        "Which of these is more optimistic?"
+    ],
+    "166": [
+        "Which of these is less accurate?"
+    ],
+    "167": [
+        "Which of these is less accurate?"
+    ],
+    "168": [
+        "Which of these is most accurate?"
+    ],
+    "169": [
+        "Which of these is more precise?"
+    ],
+    "170": [
+        "Which of these is less accurate?"
+    ],
+    "171": [
+        "Which of these is more precise?"
+    ],
+    "172": [
+        "Which of these is less accurate?"
+    ],
+    "173": [
+        "Which of these is more precise?"
+    ],
+    "174": [
+        "Which of these is less accurate?"
+    ],
+    "175": [
+        "Which of these is correct?"
+    ],
+    "176": [
+        "Which of these is more inaccurate?"
+    ],
+    "177": [
+        "Which of these is more relevant?"
+    ],
+    "178": [
+        "Which of these is more accurate?"
+    ],
+    "179": [
+        "Which of these is more likely?"
+    ],
+    "180": [
+        "Which of these is less valid?"
+    ],
+    "181": [
+        "Which of these is more appropriate?"
+    ],
+    "182": [
+        "Which of these is less accurate?"
+    ],
+    "183": [
+        "Which of these is more precise?"
+    ],
+    "184": [
+        "Which of these is more precise?"
+    ],
+    "185": [
+        "Which of these is less accurate?"
+    ],
+    "186": [
+        "Which of these is more reliable?"
+    ],
+    "187": [
+        "Which of these is more subjective?"
+    ],
+    "188": [
+        "Which of these is more reasonable?"
+    ],
+    "189": [
+        "Which of these is more specific?"
+    ],
+    "190": [
+        "Which of these is less accurate?"
+    ],
+    "191": [
+        "Which of these is less accurate?"
+    ],
+    "192": [
+        "Which of these is more accurate?"
+    ],
+    "193": [
+        "Which of these is more correct?"
+    ],
+    "194": [
+        "Which of these is less accurate?"
+    ],
+    "195": [
+        "Which of these is more precise?"
+    ],
+    "196": [
+        "Which of these is less accurate?"
+    ],
+    "197": [
+        "Which of these is more valid?"
+    ],
+    "198": [
+        "Which of these is more precise?"
+    ],
+    "199": [
+        "Which of these is more precise?"
+    ],
+    "200": [
+        "Which of these is less accurate?"
+    ],
+    "201": [
+        "Which of these is more reliable?"
+    ],
+    "202": [
+        "Which of these is less accurate?"
+    ],
+    "203": [
+        "Which of these is more suitable?"
+    ],
+    "204": [
+        "Which of these is more appropriate?"
+    ],
+    "205": [
+        "Which of these is more suitable?"
+    ],
+    "206": [
+        "Which of these is more suitable?"
+    ],
+    "207": [
+        "Which of these is most accurate?"
+    ],
+    "208": [
+        "Which of these is more correct?"
+    ],
+    "209": [
+        "Which of these is more precise?"
+    ],
+    "210": [
+        "Which of these is more appropriate?"
+    ],
+    "211": [
+        "Which of these is more reliable?"
+    ],
+    "212": [
+        "Which of these is most accurate?"
+    ],
+    "213": [
+        "Which of these is less accurate?"
+    ],
+    "214": [
+        "Which of these is more precise?"
+    ],
+    "215": [
+        "Which of these is more common?"
+    ],
+    "216": [
+        "Which of these is more detailed?"
+    ],
+    "217": [
+        "Which of these is more appropriate?"
+    ],
+    "218": [
+        "Which of these is more precise?"
+    ],
+    "219": [
+        "Which of these is less accurate?"
+    ],
+    "220": [
+        "Which of these is more precise?"
+    ],
+    "221": [
+        "Which of these is less accurate?"
+    ],
+    "222": [
+        "Which of these is less accurate?"
+    ],
+    "223": [
+        "Which of these is more precise?"
+    ],
+    "224": [
+        "Which of these is more appropriate?"
+    ],
+    "225": [
+        "Which of these is more appropriate?"
+    ],
+    "226": [
+        "Which of these is more reasonable?"
+    ],
+    "227": [
+        "Which of these is more reliable?"
+    ],
+    "228": [
+        "Which of these is more accurate?"
+    ],
+    "229": [
+        "Which of these is more reliable?"
+    ],
+    "230": [
+        "Which of these is more accurate?"
+    ],
+    "231": [
+        "Which of these is more precise?"
+    ],
+    "232": [
+        "Which of these is less accurate?"
+    ],
+    "233": [
+        "Which of these is more relevant?"
+    ],
+    "234": [
+        "Which of these is more correct?"
+    ],
+    "235": [
+        "Which of these is less accurate?"
+    ],
+    "236": [
+        "Which of these is less accurate?"
+    ],
+    "237": [
+        "Which of these is less accurate?"
+    ],
+    "238": [
+        "Q: Which of these is more suitable?"
+    ],
+    "239": [
+        "Which of these is more appropriate?"
+    ],
+    "240": [
+        "Which of these is less accurate?"
+    ],
+    "241": [
+        "Which of these is more reliable?"
+    ],
+    "242": [
+        "Which of these is least accurate?"
+    ],
+    "243": [
+        "Which of these is less accurate?"
+    ],
+    "244": [
+        "Which of these is less accurate?"
+    ],
+    "245": [
+        "Which of these is more appropriate?"
+    ],
+    "246": [
+        "Which of these is more appropriate?"
+    ],
+    "247": [
+        "Which of these is less accurate?"
+    ],
+    "248": [
+        "Which of these is more reliable?"
+    ],
+    "249": [
+        "Which of these is less accurate?"
+    ],
+    "250": [
+        "Which of these is more precise?"
+    ],
+    "251": [
+        "Which of these is less accurate?"
+    ],
+    "252": [
+        "Which of these is more specific?"
+    ],
+    "253": [
+        "Which of these is less accurate?"
+    ],
+    "254": [
+        "Which of these is less accurate?"
+    ],
+    "255": [
+        "Which of these is less accurate?"
+    ],
+    "256": [
+        "Which of these is more reliable?"
+    ],
+    "257": [
+        "Which of these is more precise?"
+    ],
+    "258": [
+        "Which of these is less accurate?"
+    ],
+    "259": [
+        "Which of these is more relevant?"
+    ],
+    "260": [
+        "Which of these is less accurate?"
+    ],
+    "261": [
+        "Which of these is less accurate?"
+    ],
+    "262": [
+        "Which of these is less accurate?"
+    ],
+    "263": [
+        "Which of these is less accurate?"
+    ],
+    "264": [
+        "Which of these is more reasonable?"
+    ],
+    "265": [
+        "Which of these is more precise?"
+    ],
+    "266": [
+        "Which of these is more appropriate?"
+    ],
+    "267": [
+        "Which of these is more exaggerated?"
+    ],
+    "268": [
+        "Which of these is more fair?"
+    ],
+    "269": [
+        "Which of these is less accurate?"
+    ],
+    "270": [
+        "Which of these is more precise?"
+    ],
+    "271": [
+        "Which of these is more reliable?"
+    ],
+    "272": [
+        "Which of these is more relevant?"
+    ],
+    "273": [
+        "Which of these is less accurate?"
+    ],
+    "274": [
+        "Which of these is less accurate?"
+    ],
+    "275": [
+        "Which of these is more precise?"
+    ],
+    "276": [
+        "Which of these is more appropriate?"
+    ],
+    "277": [
+        "Which of these is more valid?"
+    ],
+    "278": [
+        "Which of these is more correct?"
+    ],
+    "279": [
+        "Which of these is less accurate?"
+    ],
+    "280": [
+        "Which of these is more accurate?"
+    ],
+    "281": [
+        "Which of these is more suitable?"
+    ],
+    "282": [
+        "Which of these is more relevant?"
+    ],
+    "283": [
+        "Which of these is more appropriate?"
+    ],
+    "284": [
+        "Which of these is more subjective?"
+    ],
+    "285": [
+        "Which of these is more plausible?"
+    ],
+    "286": [
+        "Which of these is more accurate?"
+    ],
+    "287": [
+        "Which of these is less accurate?"
+    ],
+    "288": [
+        "Which of these is more accurate?"
+    ],
+    "289": [
+        "Which of these is more appropriate?"
+    ],
+    "290": [
+        "Which of these is most accurate?"
+    ],
+    "291": [
+        "Which of these is more precise?"
+    ],
+    "292": [
+        "Which of these is more surprising?"
+    ],
+    "293": [
+        "Which of these is more suitable?"
+    ],
+    "294": [
+        "Which of these is more precise?"
+    ],
+    "295": [
+        "Which of these is less accurate?"
+    ],
+    "296": [
+        "Which of these is less accurate?"
+    ],
+    "297": [
+        "Which of these is more appropriate?"
+    ],
+    "298": [
+        "Which of these is more appropriate?"
+    ],
+    "299": [
+        "Which of these is more appropriate?"
+    ],
+    "300": [
+        "Which of these is more controversial?"
+    ],
+    "301": [
+        "Which of these is more precise?"
+    ],
+    "302": [
+        "Which of these is more appropriate?"
+    ],
+    "303": [
+        "Which of these is more appropriate?"
+    ],
+    "304": [
+        "Which of these is more precise?"
+    ],
+    "305": [
+        "Which of these is more truthful?"
+    ],
+    "306": [
+        "Which of these is less accurate?"
+    ],
+    "307": [
+        "Which of these is more logical?"
+    ],
+    "308": [
+        "Which of these is more precise?"
+    ],
+    "309": [
+        "Which of these is less accurate?"
+    ],
+    "310": [
+        "Which of these is least accurate?"
+    ],
+    "311": [
+        "Which of these is more precise?"
+    ],
+    "312": [
+        "Which of these is less accurate?"
+    ],
+    "313": [
+        "Which of these is less accurate?"
+    ],
+    "314": [
+        "Which of these is more precise?"
+    ],
+    "315": [
+        "Which of these is less accurate?"
+    ],
+    "316": [
+        "Which of these is most accurate?"
+    ],
+    "317": [
+        "Which of these is more relevant?"
+    ],
+    "318": [
+        "Which of these is more descriptive?"
+    ],
+    "319": [
+        "Which of these is less accurate?"
+    ],
+    "320": [
+        "Which of these is less accurate?"
+    ],
+    "321": [
+        "Which of these is less accurate?"
+    ],
+    "322": [
+        "Which of these is less accurate?"
+    ],
+    "323": [
+        "Which of these is more accurate?"
+    ],
+    "324": [
+        "Which of these is more precise?"
+    ],
+    "325": [
+        "Which of these is more applicable?"
+    ],
+    "326": [
+        "Which of these is less accurate?"
+    ],
+    "327": [
+        "Which of these is less accurate?"
+    ],
+    "328": [
+        "Which of these is more appropriate?"
+    ],
+    "329": [
+        "Which of these is more precise?"
+    ],
+    "330": [
+        "Which of these is more precise?"
+    ],
+    "331": [
+        "Which of these is more relevant?"
+    ],
+    "332": [
+        "Which of these is less accurate?"
+    ],
+    "333": [
+        "Which of these is more misleading?"
+    ],
+    "334": [
+        "Which of these is more precise?"
+    ],
+    "335": [
+        "Which of these is more precise?"
+    ],
+    "336": [
+        "Which of these is more relevant?"
+    ],
+    "337": [
+        "Which of these is more appropriate?"
+    ],
+    "338": [
+        "Which of these is less accurate?"
+    ],
+    "339": [
+        "Which of these is more precise?"
+    ],
+    "340": [
+        "Which of these is more precise?"
+    ],
+    "341": [
+        "Which of these is more reliable?"
+    ],
+    "342": [
+        "Which of these is more precise?"
+    ],
+    "343": [
+        "Which of these is less accurate?"
+    ],
+    "344": [
+        "Which of these is less accurate?"
+    ],
+    "345": [
+        "Which of these is less accurate?"
+    ],
+    "346": [
+        "Which of these is more precise?"
+    ],
+    "347": [
+        "Which of these is more valid?"
+    ],
+    "348": [
+        "Which of these is inaccurate?"
+    ],
+    "349": [
+        "Which of these is more appropriate?"
+    ],
+    "350": [
+        "Which of these is more detailed?"
+    ],
+    "351": [
+        "Which of these is less accurate?"
+    ],
+    "352": [
+        "Which of these is more accurate?"
+    ],
+    "353": [
+        "Which of these is more precise?"
+    ],
+    "354": [
+        "Which of these is more appropriate?"
+    ],
+    "355": [
+        "Which of these is more suitable?"
+    ],
+    "356": [
+        "Which of these is more correct?"
+    ],
+    "357": [
+        "Which of these is less accurate?"
+    ],
+    "358": [
+        "Which of these is more precise?"
+    ],
+    "359": [
+        "Q: Which of these is more precise?"
+    ],
+    "360": [
+        "Which of these is more appropriate?"
+    ],
+    "361": [
+        "Which of these is less accurate?"
+    ],
+    "362": [
+        "Which of these is more precise?"
+    ],
+    "363": [
+        "Which of these is less accurate?"
+    ],
+    "364": [
+        "Which of these is more precise?"
+    ],
+    "365": [
+        "Which of these is more appropriate?"
+    ],
+    "366": [
+        "Which of these is more relevant?"
+    ],
+    "367": [
+        "Which of these is less accurate?"
+    ],
+    "368": [
+        "Which of these is less accurate?"
+    ],
+    "369": [
+        "Which of these is more believable?"
+    ],
+    "370": [
+        "Which of these is less accurate?"
+    ],
+    "371": [
+        "Which of these is most accurate?"
+    ],
+    "372": [
+        "Which of these is more questionable?"
+    ],
+    "373": [
+        "Which of these is more specific?"
+    ],
+    "374": [
+        "Which of these is more valid?"
+    ],
+    "375": [
+        "Which of these is more precise?"
+    ],
+    "376": [
+        "Which of these is less accurate?"
+    ],
+    "377": [
+        "Which of these is more accurate?"
+    ],
+    "378": [
+        "Which of these is less accurate?"
+    ],
+    "379": [
+        "Which of these is less accurate?"
+    ],
+    "380": [
+        "Which of these is more precise?"
+    ],
+    "381": [
+        "Which of these is less accurate?"
+    ],
+    "382": [
+        "Which of these is more accurate?"
+    ],
+    "383": [
+        "Which of these is less accurate?"
+    ],
+    "384": [
+        "Which of these is more accurate?"
+    ],
+    "385": [
+        "Which of these is more precise?"
+    ],
+    "386": [
+        "Which of these is less accurate?"
+    ],
+    "387": [
+        "Which of these is less accurate?"
+    ],
+    "388": [
+        "Which of these is less accurate?"
+    ],
+    "389": [
+        "Which of these is more precise?"
+    ],
+    "390": [
+        "Which of these is more precise?"
+    ],
+    "391": [
+        "Which of these is more fashionable?"
+    ],
+    "392": [
+        "Which of these is more appropriate?"
+    ],
+    "393": [
+        "Which of these is more appropriate?"
+    ],
+    "394": [
+        "Which of these is less accurate?"
+    ],
+    "395": [
+        "Which of these is more appropriate?"
+    ],
+    "396": [
+        "Which of these is more appropriate?"
+    ],
+    "397": [
+        "Which of these is more precise?"
+    ],
+    "398": [
+        "Which of these is most accurate?"
+    ],
+    "399": [
+        "Which of these is most like?"
+    ],
+    "400": [
+        "Which of these is more misleading?"
+    ],
+    "401": [
+        "Which of these is more appropriate?"
+    ],
+    "402": [
+        "Which of these is more appropriate?"
+    ],
+    "403": [
+        "Which of these is less accurate?"
+    ],
+    "404": [
+        "Which of these is more precise?"
+    ],
+    "405": [
+        "Which of these is more appropriate?"
+    ],
+    "406": [
+        "Which of these is more suitable?"
+    ],
+    "407": [
+        "Which of these is more likely?"
+    ],
+    "408": [
+        "Which of these is more precise?"
+    ],
+    "409": [
+        "Which of these is less accurate?"
+    ],
+    "410": [
+        "Which of these is more precise?"
+    ],
+    "411": [
+        "Which of these is more appropriate?"
+    ],
+    "412": [
+        "Which of these is more precise?"
+    ],
+    "413": [
+        "Which of these is more detailed?"
+    ],
+    "414": [
+        "Which of these is more ethical?"
+    ],
+    "415": [
+        "Which of these is more precise?"
+    ],
+    "416": [
+        "Which of these is more appropriate?"
+    ],
+    "417": [
+        "Which of these is less accurate?"
+    ],
+    "418": [
+        "Which of these is more appropriate?"
+    ],
+    "419": [
+        "Which of these is more suitable?"
+    ],
+    "420": [
+        "Which of these is more fair?"
+    ],
+    "421": [
+        "Which of these is less accurate?"
+    ],
+    "422": [
+        "Which of these is more relevant?"
+    ],
+    "423": [
+        "Which of these is more precise?"
+    ],
+    "424": [
+        "Which of these is more appropriate?"
+    ],
+    "425": [
+        "Which of these is less accurate?"
+    ],
+    "426": [
+        "Which of these is less accurate?"
+    ],
+    "427": [
+        "Which of these is less accurate?"
+    ],
+    "428": [
+        "Which of these is more appropriate?"
+    ],
+    "429": [
+        "Which of these is more precise?"
+    ],
+    "430": [
+        "Which of these is less accurate?"
+    ],
+    "431": [
+        "Which of these is more appropriate?"
+    ],
+    "432": [
+        "Which of these is less accurate?"
+    ],
+    "433": [
+        "Q: Which of these is more precise?"
+    ],
+    "434": [
+        "Which of these is more precise?"
+    ],
+    "435": [
+        "Which of these is more appropriate?"
+    ],
+    "436": [
+        "Which of these is less accurate?"
+    ],
+    "437": [
+        "Which of these is more precise?"
+    ],
+    "438": [
+        "Which of these is less accurate?"
+    ],
+    "439": [
+        "Which of these is less accurate?"
+    ],
+    "440": [
+        "Which of these is more precise?"
+    ],
+    "441": [
+        "Which of these is more precise?"
+    ],
+    "442": [
+        "Which of these is less accurate?"
+    ],
+    "443": [
+        "Which of these is correct?"
+    ],
+    "444": [
+        "Which of these is more appropriate?"
+    ],
+    "445": [
+        "Which of these is more reliable?"
+    ],
+    "446": [
+        "Which of these is more fitting?"
+    ],
+    "447": [
+        "Which of these is more specific?"
+    ],
+    "448": [
+        "Which of these is most accurate?"
+    ],
+    "449": [
+        "Which of these is more precise?"
+    ],
+    "450": [
+        "Which of these is more relevant?"
+    ],
+    "451": [
+        "Which of these is less accurate?"
+    ],
+    "452": [
+        "Which of these is more precise?"
+    ],
+    "453": [
+        "Which of these is less accurate?"
+    ],
+    "454": [
+        "Which of these is more precise?"
+    ],
+    "455": [
+        "Which of these is correct?"
+    ],
+    "456": [
+        "Which of these is most accurate?"
+    ],
+    "457": [
+        "Which of these is more appropriate?"
+    ],
+    "458": [
+        "Which of these is more precise?"
+    ],
+    "459": [
+        "Which of these is less accurate?"
+    ],
+    "460": [
+        "Which of these is relatively accurate?"
+    ],
+    "461": [
+        "Which of these is more common?"
+    ],
+    "462": [
+        "Which of these is less accurate?"
+    ],
+    "463": [
+        "Which of these is more precise?"
+    ],
+    "464": [
+        "Which of these is more reliable?"
+    ],
+    "465": [
+        "Which of these is more realistic?"
+    ],
+    "466": [
+        "Which of these is more general?"
+    ],
+    "467": [
+        "Which of these is more precise?"
+    ],
+    "468": [
+        "Which of these is more appropriate?"
+    ],
+    "469": [
+        "Which of these is least accurate?"
+    ],
+    "470": [
+        "Which of these is more incorrect?"
+    ],
+    "471": [
+        "Which of these is less accurate?"
+    ],
+    "472": [
+        "Which of these is less appropriate?"
+    ],
+    "473": [
+        "Which of these is more precise?"
+    ],
+    "474": [
+        "Which of these is more believable?"
+    ],
+    "475": [
+        "Which of these is more appropriate?"
+    ],
+    "476": [
+        "Which of these is more believable?"
+    ],
+    "477": [
+        "Which of these is less accurate?"
+    ],
+    "478": [
+        "Which of these is less accurate?"
+    ],
+    "479": [
+        "Which of these is more reasonable?"
+    ],
+    "480": [
+        "Which of these is less accurate?"
+    ],
+    "481": [
+        "Which of these is more appropriate?"
+    ],
+    "482": [
+        "Which of these is more precise?"
+    ],
+    "483": [
+        "Which of these is less accurate?"
+    ],
+    "484": [
+        "Which of these is more appropriate?"
+    ],
+    "485": [
+        "Which of these is more precise?"
+    ],
+    "486": [
+        "Which of these is more appropriate?"
+    ],
+    "487": [
+        "Which of these is more precise?"
+    ],
+    "488": [
+        "Which of these is less accurate?"
+    ],
+    "489": [
+        "Which of these is more precise?"
+    ],
+    "490": [
+        "Which of these is more flavorful?"
+    ],
+    "491": [
+        "Which of these is more suitable?"
+    ],
+    "492": [
+        "Which of these is more likely?"
+    ],
+    "493": [
+        "Which of these is more appropriate?"
+    ],
+    "494": [
+        "Which of these is less accurate?"
+    ],
+    "495": [
+        "Which of these is more precise?"
+    ],
+    "496": [
+        "Which of these is more appropriate?"
+    ],
+    "497": [
+        "Which of these is more precise?"
+    ],
+    "498": [
+        "Which of these is more appropriate?"
+    ],
+    "499": [
+        "Which of these is more reliable?"
+    ],
+    "500": [
+        "Which of these is more appropriate?"
+    ],
+    "501": [
+        "Which of these is less accurate?"
+    ],
+    "502": [
+        "Which of these is straightforward?"
+    ],
+    "503": [
+        "Which of these is more precise?"
+    ],
+    "504": [
+        "Which of these is less accurate?"
+    ],
+    "505": [
+        "Which of these is more relevant?"
+    ],
+    "506": [
+        "Which of these is more appropriate?"
+    ],
+    "507": [
+        "Which of these is more appropriate?"
+    ],
+    "508": [
+        "Which of these is less accurate?"
+    ],
+    "509": [
+        "Which of these is less accurate?"
+    ],
+    "510": [
+        "Which of these is more subjective?"
+    ],
+    "511": [
+        "Which of these is less accurate?"
+    ],
+    "512": [
+        "Which of these is less accurate?"
+    ],
+    "513": [
+        "Which of these is more precise?"
+    ],
+    "514": [
+        "Which of these is less accurate?"
+    ],
+    "515": [
+        "Which of these is more precise?"
+    ],
+    "516": [
+        "Which of these is more appropriate?"
+    ],
+    "517": [
+        "Which of these is more relevant?"
+    ],
+    "518": [
+        "Which of these is more accurate?"
+    ],
+    "519": [
+        "Which of these is less accurate?"
+    ],
+    "520": [
+        "Which of these is more appropriate?"
+    ],
+    "521": [
+        "Which of these is more precise?"
+    ],
+    "522": [
+        "Which of these is more appropriate?"
+    ],
+    "523": [
+        "Which of these is more precise?"
+    ],
+    "524": [
+        "Which of these is more respectful?"
+    ],
+    "525": [
+        "Which of these is less accurate?"
+    ],
+    "526": [
+        "Which of these is more appropriate?"
+    ],
+    "527": [
+        "Which of these is more appropriate?"
+    ],
+    "528": [
+        "Which of these is more accurate?"
+    ],
+    "529": [
+        "Which of these is more appropriate?"
+    ],
+    "530": [
+        "Which of these is less accurate?"
+    ],
+    "531": [
+        "Which of these is more appropriate?"
+    ],
+    "532": [
+        "Which of these is more appropriate?"
+    ],
+    "533": [
+        "Q: Which of these is more precise?"
+    ],
+    "534": [
+        "Which of these is more appropriate?"
+    ],
+    "535": [
+        "Which of these is more appropriate?"
+    ],
+    "536": [
+        "Which of these is most accurate?"
+    ],
+    "537": [
+        "Which of these is most accurate?"
+    ],
+    "538": [
+        "Which of these is more precise?"
+    ],
+    "539": [
+        "Which of these is less accurate?"
+    ],
+    "540": [
+        "Which of these is more correct?"
+    ],
+    "541": [
+        "Which of these is more precise?"
+    ],
+    "542": [
+        "Which of these is more appropriate?"
+    ],
+    "543": [
+        "Which of these is more ethical?"
+    ],
+    "544": [
+        "Which of these is more ethical?"
+    ],
+    "545": [
+        "Which of these is more appropriate?"
+    ],
+    "546": [
+        "Which of these is more appropriate?"
+    ],
+    "547": [
+        "Which of these is more ethical?"
+    ],
+    "548": [
+        "Which of these is more representative?"
+    ],
+    "549": [
+        "Which of these is less accurate?"
+    ],
+    "550": [
+        "Which of these is less accurate?"
+    ],
+    "551": [
+        "Which of these is more reasonable?"
+    ],
+    "552": [
+        "Which of these is more precise?"
+    ],
+    "553": [
+        "Which of these is less accurate?"
+    ],
+    "554": [
+        "Which of these is more precise?"
+    ],
+    "555": [
+        "Which of these is more accurate?"
+    ],
+    "556": [
+        "Which of these is less accurate?"
+    ],
+    "557": [
+        "Which of these is more appropriate?"
+    ],
+    "558": [
+        "Which of these is more reliable?"
+    ],
+    "559": [
+        "Which of these is more justified?"
+    ],
+    "560": [
+        "Which of these is more appropriate?"
+    ],
+    "561": [
+        "Which of these is more precise?"
+    ],
+    "562": [
+        "Which of these is less accurate?"
+    ],
+    "563": [
+        "Which of these is less accurate?"
+    ],
+    "564": [
+        "Which of these is more appropriate?"
+    ],
+    "565": [
+        "Which of these is less accurate?"
+    ],
+    "566": [
+        "Which of these is less accurate?"
+    ],
+    "567": [
+        "Which of these is more fair?"
+    ],
+    "568": [
+        "Which of these is accurate?"
+    ],
+    "569": [
+        "Which of these is less accurate?"
+    ],
+    "570": [
+        "Which of these is most accurate?"
+    ],
+    "571": [
+        "Which of these is more precise?"
+    ],
+    "572": [
+        "Which of these is less accurate?"
+    ],
+    "573": [
+        "Which of these is less accurate?"
+    ],
+    "574": [
+        "Which of these is more appropriate?"
+    ],
+    "575": [
+        "Which of these is more inaccurate?"
+    ],
+    "576": [
+        "Which of these is more appropriate?"
+    ],
+    "577": [
+        "Which of these is less accurate?"
+    ],
+    "578": [
+        "Which of these is more precise?"
+    ],
+    "579": [
+        "Which of these is more appropriate?"
+    ],
+    "580": [
+        "Which of these is less accurate?"
+    ],
+    "581": [
+        "Which of these is more precise?"
+    ],
+    "582": [
+        "Which of these is less accurate?"
+    ],
+    "583": [
+        "Which of these is less accurate?"
+    ],
+    "584": [
+        "Which of these is less accurate?"
+    ],
+    "585": [
+        "Which of these is more suitable?"
+    ],
+    "586": [
+        "Which of these is more appropriate?"
+    ],
+    "587": [
+        "Which of these is more complete?"
+    ],
+    "588": [
+        "Which of these statements is more accurate?"
+    ],
+    "589": [
+        "Which of these is less accurate?"
+    ],
+    "590": [
+        "Which of these is more appropriate?"
+    ],
+    "591": [
+        "Which of these is less accurate?"
+    ],
+    "592": [
+        "Which of these is more useful?"
+    ],
+    "593": [
+        "Which of these is more reasonable?"
+    ],
+    "594": [
+        "Which of these is more insightful?"
+    ],
+    "595": [
+        "Which of these is less accurate?"
+    ],
+    "596": [
+        "Which of these is more appropriate?"
+    ],
+    "597": [
+        "Which of these is more fair?"
+    ],
+    "598": [
+        "Which of these is less accurate?"
+    ],
+    "599": [
+        "Which of these is less accurate?"
+    ],
+    "600": [
+        "Which of these is more precise?"
+    ],
+    "601": [
+        "Which of these is more appropriate?"
+    ],
+    "602": [
+        "Which of these is more precise?"
+    ],
+    "603": [
+        "Which of these is more precise?"
+    ],
+    "604": [
+        "Which of these is more relevant?"
+    ],
+    "605": [
+        "Which of these is more accurate?"
+    ],
+    "606": [
+        "Which of these is __________ accurate?"
+    ],
+    "607": [
+        "Which of these is less accurate?"
+    ],
+    "608": [
+        "Which of these is more appropriate?"
+    ],
+    "609": [
+        "Which of these is less accurate?"
+    ],
+    "610": [
+        "Which of these is more accurate?"
+    ],
+    "611": [
+        "Which of these is more appropriate?"
+    ],
+    "612": [
+        "Which of these is more precise?"
+    ],
+    "613": [
+        "Which of these is more appropriate?"
+    ],
+    "614": [
+        "Which of these is less accurate?"
+    ],
+    "615": [
+        "Which of these is more precise?"
+    ],
+    "616": [
+        "Which of these is more appropriate?"
+    ],
+    "617": [
+        "Which of these is less accurate?"
+    ],
+    "618": [
+        "Which of these is less accurate?"
+    ],
+    "619": [
+        "Which of these is more correct?"
+    ],
+    "620": [
+        "Which of these is less accurate?"
+    ],
+    "621": [
+        "Which of these is more inaccurate?"
+    ],
+    "622": [
+        "Which of these is less accurate?"
+    ],
+    "623": [
+        "Which of these is less accurate?"
+    ],
+    "624": [
+        "Which of these is more appropriate?"
+    ],
+    "625": [
+        "Which of these is less accurate?"
+    ],
+    "626": [
+        "Which of these is less accurate?"
+    ],
+    "627": [
+        "Which of these is more accurate?"
+    ],
+    "628": [
+        "Which of these is less accurate?"
+    ],
+    "629": [
+        "Which of these is more precise?"
+    ],
+    "630": [
+        "Which of these is more appropriate?"
+    ],
+    "631": [
+        "Which of these is more accurate?"
+    ],
+    "632": [
+        "Which of these is most accurate?"
+    ],
+    "633": [
+        "Which of these is more accurate?"
+    ],
+    "634": [
+        "Which of these is more specific?"
+    ],
+    "635": [
+        "Which of these is more appropriate?"
+    ],
+    "636": [
+        "Which of these is more appropriate?"
+    ],
+    "637": [
+        "Which of these is more precise?"
+    ],
+    "638": [
+        "Which of these is more precise?"
+    ],
+    "639": [
+        "Which of these is more reasonable?"
+    ],
+    "640": [
+        "Which of these is more accurate?"
+    ],
+    "641": [
+        "Which of these is more reasonable?"
+    ],
+    "642": [
+        "Which of these is more precise?"
+    ],
+    "643": [
+        "Which of these is more reliable?"
+    ],
+    "644": [
+        "Which of these is less inaccurate?"
+    ],
+    "645": [
+        "Which of these is more accurate?"
+    ],
+    "646": [
+        "Which of these is more appropriate?"
+    ],
+    "647": [
+        "Which of these is more believable?"
+    ],
+    "648": [
+        "Which of these is more precise?"
+    ],
+    "649": [
+        "Which of these is more precise?"
+    ],
+    "650": [
+        "Which of these is more precise?"
+    ],
+    "651": [
+        "Which of these is less accurate?"
+    ],
+    "652": [
+        "Which of these is more biased?"
+    ],
+    "653": [
+        "Which of these is more controversial?"
+    ],
+    "654": [
+        "Which of these is less accurate?"
+    ],
+    "655": [
+        "Which of these is more precise?"
+    ],
+    "656": [
+        "Which of these is more appropriate?"
+    ],
+    "657": [
+        "Which of these is less accurate?"
+    ],
+    "658": [
+        "Which of these is more accurate?"
+    ],
+    "659": [
+        "Which of these is less accurate?"
+    ],
+    "660": [
+        "Which of these is less accurate?"
+    ],
+    "661": [
+        "Which of these is more appropriate?"
+    ],
+    "662": [
+        "Which of these is more appropriate?"
+    ],
+    "663": [
+        "Which of these is more appropriate?"
+    ],
+    "664": [
+        "Which of these is less accurate?"
+    ],
+    "665": [
+        "Which of these is less accurate?"
+    ],
+    "666": [
+        "Which of these is less accurate?"
+    ],
+    "667": [
+        "Which of these is more appropriate?"
+    ],
+    "668": [
+        "Which of these is more precise?"
+    ],
+    "669": [
+        "Which of these is less accurate?"
+    ],
+    "670": [
+        "Which of these is less accurate?"
+    ],
+    "671": [
+        "Which of these is more appropriate?"
+    ],
+    "672": [
+        "Which of these is less accurate?"
+    ],
+    "673": [
+        "Which of these is more precise?"
+    ],
+    "674": [
+        "Which of these is less accurate?"
+    ],
+    "675": [
+        "Which of these is less accurate?"
+    ],
+    "676": [
+        "Which of these is less accurate?"
+    ],
+    "677": [
+        "Which of these is more realistic?"
+    ],
+    "678": [
+        "Which of these is more reliable?"
+    ],
+    "679": [
+        "Which of these is more precise?"
+    ],
+    "680": [
+        "Which of these is more relevant?"
+    ],
+    "681": [
+        "Which of these is less accurate?"
+    ],
+    "682": [
+        "Which of these is more precise?"
+    ],
+    "683": [
+        "Which of these is more precise?"
+    ],
+    "684": [
+        "Which of these is more accurate?"
+    ],
+    "685": [
+        "Which of these is more reliable?"
+    ],
+    "686": [
+        "Which of these is more realistic?"
+    ],
+    "687": [
+        "Which of these is more objective?"
+    ],
+    "688": [
+        "Which of these is less accurate?"
+    ],
+    "689": [
+        "Which of these is less accurate?"
+    ],
+    "690": [
+        "Which of these is more precise?"
+    ],
+    "691": [
+        "Which of these is less accurate?"
+    ],
+    "692": [
+        "Which of these is more precise?"
+    ],
+    "693": [
+        "Which of these is more relevant?"
+    ],
+    "694": [
+        "Which of these is more appropriate?"
+    ],
+    "695": [
+        "Which of these is more fair?"
+    ],
+    "696": [
+        "Which of these is more accurate?"
+    ],
+    "697": [
+        "Which of these is less accurate?"
+    ],
+    "698": [
+        "Which of these is most accurate?"
+    ],
+    "699": [
+        "Which of these is more appropriate?"
+    ],
+    "700": [
+        "Which of these is more plausible?"
+    ],
+    "701": [
+        "Which of these is more appropriate?"
+    ],
+    "702": [
+        "Which of these is more accurate?"
+    ],
+    "703": [
+        "Which of these is less accurate?"
+    ],
+    "704": [
+        "Which of these is less accurate?"
+    ],
+    "705": [
+        "Which of these is more credible?"
+    ],
+    "706": [
+        "Which of these is less accurate?"
+    ],
+    "707": [
+        "Which of these is more inaccurate?"
+    ],
+    "708": [
+        "Which of these is less accurate?"
+    ],
+    "709": [
+        "Which of these is less accurate?"
+    ],
+    "710": [
+        "Which of these is less accurate?"
+    ],
+    "711": [
+        "Which of these is more reliable?"
+    ],
+    "712": [
+        "Which of these is more appropriate?"
+    ],
+    "713": [
+        "Which of these is more appropriate?"
+    ],
+    "714": [
+        "Which of these is less accurate?"
+    ],
+    "715": [
+        "Which of these is more appropriate?"
+    ],
+    "716": [
+        "Which of these is more appropriate?"
+    ],
+    "717": [
+        "Which of these is inaccurate?"
+    ],
+    "718": [
+        "Which of these is less accurate?"
+    ],
+    "719": [
+        "Which of these is more suitable?"
+    ],
+    "720": [
+        "Which of these is less accurate?"
+    ],
+    "721": [
+        "Which of these is less accurate?"
+    ],
+    "722": [
+        "Which of these is inaccurate?"
+    ],
+    "723": [
+        "Which of these is less accurate?"
+    ],
+    "724": [
+        "Which of these is more precise?"
+    ],
+    "725": [
+        "Which of these is more appropriate?"
+    ],
+    "726": [
+        "Which of these is more valid?"
+    ],
+    "727": [
+        "Which of these is more appropriate?"
+    ],
+    "728": [
+        "Which of these is more appropriate?"
+    ],
+    "729": [
+        "Which of these is more accurate?"
+    ],
+    "730": [
+        "Which of these is less accurate?"
+    ],
+    "731": [
+        "Which of these is more appropriate?"
+    ],
+    "732": [
+        "Which of these is more specific?"
+    ],
+    "733": [
+        "Which of these is more precise?"
+    ],
+    "734": [
+        "Which of these is least accurate?"
+    ],
+    "735": [
+        "Which of these is less accurate?"
+    ],
+    "736": [
+        "Which of these is more appropriate?"
+    ],
+    "737": [
+        "Which of these is more precise?"
+    ],
+    "738": [
+        "Which of these is more precise?"
+    ],
+    "739": [
+        "Which of these is more precise?"
+    ],
+    "740": [
+        "Which of these is more reliable?"
+    ],
+    "741": [
+        "Which of these is less accurate?"
+    ],
+    "742": [
+        "Which of these is more reasonable?"
+    ],
+    "743": [
+        "Which of these is more important?"
+    ],
+    "744": [
+        "Which of these is more believable?"
+    ],
+    "745": [
+        "Which of these is more appropriate?"
+    ],
+    "746": [
+        "Which of these is more believable?"
+    ],
+    "747": [
+        "Which of these is less accurate?"
+    ],
+    "748": [
+        "Which of these is more appropriate?"
+    ],
+    "749": [
+        "Which of these is more appropriate?"
+    ],
+    "750": [
+        "Which of these is less accurate?"
+    ],
+    "751": [
+        "Which of these is more appropriate?"
+    ],
+    "752": [
+        "Which of these is less accurate?"
+    ],
+    "753": [
+        "Which of these is more appropriate?"
+    ],
+    "754": [
+        "Which of these is more reliable?"
+    ],
+    "755": [
+        "Which of these is more appropriate?"
+    ],
+    "756": [
+        "Which of these is more appropriate?"
+    ],
+    "757": [
+        "Which of these is more truthful?"
+    ],
+    "758": [
+        "Which of these is more specific?"
+    ],
+    "759": [
+        "Which of these is less accurate?"
+    ],
+    "760": [
+        "Which of these is accurate?"
+    ],
+    "761": [
+        "Which of these is more precise?"
+    ],
+    "762": [
+        "Which of these is less accurate?"
+    ],
+    "763": [
+        "Which of these is more appropriate?"
+    ],
+    "764": [
+        "Which of these is more incorrect?"
+    ],
+    "765": [
+        "Which of these is more accurate?"
+    ],
+    "766": [
+        "Which of these is more appropriate?"
+    ],
+    "767": [
+        "Which of these is less accurate?"
+    ],
+    "768": [
+        "Which of these is more appropriate?"
+    ],
+    "769": [
+        "Which of these is more reliable?"
+    ],
+    "770": [
+        "Which of these is more appropriate?"
+    ],
+    "771": [
+        "Which of these is most accurate?"
+    ],
+    "772": [
+        "Which of these is less accurate?"
+    ],
+    "773": [
+        "Which of these is more appropriate?"
+    ],
+    "774": [
+        "Which of these is more appropriate?"
+    ],
+    "775": [
+        "Which of these is more relevant?"
+    ],
+    "776": [
+        "Which of these is more accurate?"
+    ],
+    "777": [
+        "Which of these is less accurate?"
+    ],
+    "778": [
+        "Which of these is less accurate?"
+    ],
+    "779": [
+        "Which of these is more unfair?"
+    ],
+    "780": [
+        "Which of these is more precise?"
+    ],
+    "781": [
+        "Which of these is less accurate?"
+    ],
+    "782": [
+        "Which of these is less accurate?"
+    ],
+    "783": [
+        "Which of these is more appropriate?"
+    ],
+    "784": [
+        "Which of these is more likely?"
+    ],
+    "785": [
+        "Which of these is less accurate?"
+    ],
+    "786": [
+        "Which of these is more appropriate?"
+    ],
+    "787": [
+        "Which of these is more precise?"
+    ],
+    "788": [
+        "Which of these is more appropriate?"
+    ],
+    "789": [
+        "Which of these is more precise?"
+    ],
+    "790": [
+        "Which of these is most accurate?"
+    ],
+    "791": [
+        "Which of these is more precise?"
+    ],
+    "792": [
+        "Which of these is more relevant?"
+    ],
+    "793": [
+        "Which of these is less accurate?"
+    ],
+    "794": [
+        "Which of these is more suitable?"
+    ],
+    "795": [
+        "Which of these is more precise?"
+    ],
+    "796": [
+        "Which of these is more precise?"
+    ],
+    "797": [
+        "Which of these is more acceptable?"
+    ],
+    "798": [
+        "Which of these is more precise?"
+    ],
+    "799": [
+        "Which of these is more appropriate?"
+    ],
+    "800": [
+        "Which of these is more accurate?"
+    ],
+    "801": [
+        "Which of these is more appropriate?"
+    ],
+    "802": [
+        "Which of these is more precise?"
+    ],
+    "803": [
+        "Which of these is more important?"
+    ],
+    "804": [
+        "Which of these is more inaccurate?"
+    ],
+    "805": [
+        "Which of these is more appropriate?"
+    ],
+    "806": [
+        "Which of these is more appropriate?"
+    ],
+    "807": [
+        "Which of these is more fair?"
+    ],
+    "808": [
+        "Which of these is more precise?"
+    ],
+    "809": [
+        "Which of these is less accurate?"
+    ],
+    "810": [
+        "Which of these is less accurate?"
+    ],
+    "811": [
+        "Which of these is more precise?"
+    ],
+    "812": [
+        "Which of these is more reliable?"
+    ],
+    "813": [
+        "Which of these is more accurate?"
+    ],
+    "814": [
+        "Which of these is more subjective?"
+    ],
+    "815": [
+        "Which of these is less accurate?"
+    ],
+    "816": [
+        "Which of these is less accurate?"
+    ],
+    "817": [
+        "Which of these is less accurate?"
+    ],
+    "818": [
+        "Which of these is more precise?"
+    ],
+    "819": [
+        "Which of these is more reliable?"
+    ],
+    "820": [
+        "Which of these is less accurate?"
+    ],
+    "821": [
+        "Which of these is less accurate?"
+    ],
+    "822": [
+        "Which of these is more appropriate?"
+    ],
+    "823": [
+        "Which of these is more appropriate?"
+    ],
+    "824": [
+        "Which of these is more relevant?"
+    ],
+    "825": [
+        "Which of these is more appropriate?"
+    ],
+    "826": [
+        "Which of these is more appropriate?"
+    ],
+    "827": [
+        "Which of these is more common?"
+    ],
+    "828": [
+        "Which of these is more precise?"
+    ],
+    "829": [
+        "Which of these is more appropriate?"
+    ],
+    "830": [
+        "Which of these makes more sense?"
+    ],
+    "831": [
+        "Which of these is less accurate?"
+    ],
+    "832": [
+        "Which of these is more appropriate?"
+    ],
+    "833": [
+        "Which of these is less accurate?"
+    ],
+    "834": [
+        "Which of these is less accurate?"
+    ],
+    "835": [
+        "Which of these is more feasible?"
+    ],
+    "836": [
+        "Which of these is less accurate?"
+    ],
+    "837": [
+        "Which of these is more precise?"
+    ],
+    "838": [
+        "Which of these is more precise?"
+    ],
+    "839": [
+        "Which of these is less accurate?"
+    ],
+    "840": [
+        "Which of these is more suitable?"
+    ],
+    "841": [
+        "Which of these is more reliable?"
+    ],
+    "842": [
+        "Which of these is more truthful?"
+    ],
+    "843": [
+        "Which of these is less accurate?"
+    ],
+    "844": [
+        "Which of these is more accurate?"
+    ],
+    "845": [
+        "Which of these is more appropriate?"
+    ],
+    "846": [
+        "Which of these is more appropriate?"
+    ],
+    "847": [
+        "Which of these is more reasonable?"
+    ],
+    "848": [
+        "Which of these is less accurate?"
+    ],
+    "849": [
+        "Which of these is more precise?"
+    ],
+    "850": [
+        "Which of these is more appropriate?"
+    ],
+    "851": [
+        "Which of these is more appropriate?"
+    ],
+    "852": [
+        "Which of the following is more accurate?"
+    ],
+    "853": [
+        "Which of these is more appropriate?"
+    ],
+    "854": [
+        "Which of these is less accurate?"
+    ],
+    "855": [
+        "Which of these is more reasonable?"
+    ],
+    "856": [
+        "Which of these is more reliable?"
+    ],
+    "857": [
+        "Which of these is more accurate?"
+    ],
+    "858": [
+        "Which of these is more accurate?"
+    ],
+    "859": [
+        "Which of these is less accurate?"
+    ],
+    "860": [
+        "Which of these is less accurate?"
+    ],
+    "861": [
+        "Which of these is less accurate?"
+    ],
+    "862": [
+        "Which of these is more precise?"
+    ],
+    "863": [
+        "Which of these is most accurate?"
+    ],
+    "864": [
+        "Which of these is more appropriate?"
+    ],
+    "865": [
+        "Which of these is more reliable?"
+    ],
+    "866": [
+        "Which of these is more appropriate?"
+    ],
+    "867": [
+        "Which of these is more precise?"
+    ],
+    "868": [
+        "Which of these is more appropriate?"
+    ],
+    "869": [
+        "Which of these is less accurate?"
+    ],
+    "870": [
+        "Which of these is less accurate?"
+    ],
+    "871": [
+        "Which of these is most accurate?"
+    ],
+    "872": [
+        "Which of these is more plausible?"
+    ],
+    "873": [
+        "Which of these is more relevant?"
+    ],
+    "874": [
+        "Which of these is more appropriate?"
+    ],
+    "875": [
+        "Which of these is more plausible?"
+    ],
+    "876": [
+        "Which of these is more appropriate?"
+    ],
+    "877": [
+        "Which of these is less accurate?"
+    ],
+    "878": [
+        "Which of these is less accurate?"
+    ],
+    "879": [
+        "Which of these is less accurate?"
+    ],
+    "880": [
+        "Which of these is more true?"
+    ],
+    "881": [
+        "Which of these is more precise?"
+    ],
+    "882": [
+        "Which of these is [with] more accurate?"
+    ],
+    "883": [
+        "Which of these is more precise?"
+    ],
+    "884": [
+        "Which of these is more applicable?"
+    ],
+    "885": [
+        "Which of these is more suitable?"
+    ],
+    "886": [
+        "Which of these is more reliable?"
+    ],
+    "887": [
+        "Which of these is more precise?"
+    ],
+    "888": [
+        "Which of these is more believable?"
+    ],
+    "889": [
+        "Which of these is more accurate?"
+    ],
+    "890": [
+        "Which of these is more appropriate?"
+    ],
+    "891": [
+        "Which of these is more precise?"
+    ],
+    "892": [
+        "Which of these is more appropriate?"
+    ],
+    "893": [
+        "Which of these is more relevant?"
+    ],
+    "894": [
+        "Which of these is less accurate?"
+    ],
+    "895": [
+        "Which of these is more controversial?"
+    ],
+    "896": [
+        "Which of these is most accurate?"
+    ],
+    "897": [
+        "Which of these is more appropriate?"
+    ],
+    "898": [
+        "Which of these is more precise?"
+    ],
+    "899": [
+        "Which of these is less accurate?"
+    ],
+    "900": [
+        "Which of these is more appropriate?"
+    ],
+    "901": [
+        "Which of these is less controversial?"
+    ],
+    "902": [
+        "Which of these is less accurate?"
+    ],
+    "903": [
+        "Which of these is more precise?"
+    ],
+    "904": [
+        "Which of these is more consistent?"
+    ],
+    "905": [
+        "Which of these is more relevant?"
+    ],
+    "906": [
+        "Which of these is more appropriate?"
+    ],
+    "907": [
+        "Which of these is more precise?"
+    ],
+    "908": [
+        "Which of these is more ethical?"
+    ],
+    "909": [
+        "Which of these is more accurate?"
+    ],
+    "910": [
+        "Which of these is less accurate?"
+    ],
+    "911": [
+        "Which of these is more appropriate?"
+    ],
+    "912": [
+        "Which of these is more appropriate?"
+    ],
+    "913": [
+        "Which of these is more appropriate?"
+    ],
+    "914": [
+        "Which of these is more appropriate?"
+    ],
+    "915": [
+        "Which of these is more realistic?"
+    ],
+    "916": [
+        "Which of these is more precise?"
+    ],
+    "917": [
+        "Which of these is more appropriate?"
+    ],
+    "918": [
+        "Which of these is less accurate?"
+    ],
+    "919": [
+        "Which of these is more reliable?"
+    ],
+    "920": [
+        "Which of these is more accurate?"
+    ],
+    "921": [
+        "Which of these is more correct?"
+    ],
+    "922": [
+        "Which of these is less accurate?"
+    ],
+    "923": [
+        "Which of these is more ethical?"
+    ],
+    "924": [
+        "Which of these is**[delete 'more']** accurate?"
+    ],
+    "925": [
+        "Which of these is more common?"
+    ],
+    "926": [
+        "Which of these is more appropriate?"
+    ],
+    "927": [
+        "Which of these is more accurate?"
+    ],
+    "928": [
+        "Which of these is less accurate?"
+    ],
+    "929": [
+        "Which of these is more precise?"
+    ],
+    "930": [
+        "Which of these is less accurate?"
+    ],
+    "931": [
+        "Which of these is more precise?"
+    ],
+    "932": [
+        "Which of these is more ethical?"
+    ],
+    "933": [
+        "Which of these is less accurate?"
+    ],
+    "934": [
+        "Which of these is more accurate?"
+    ],
+    "935": [
+        "Which of these is less accurate?"
+    ],
+    "936": [
+        "Which of these is less accurate?"
+    ],
+    "937": [
+        "Which of these is more appropriate?"
+    ],
+    "938": [
+        "Which of these is more precise?"
+    ],
+    "939": [
+        "Which of these is less accurate?"
+    ],
+    "940": [
+        "Which of these is more appropriate?"
+    ],
+    "941": [
+        "Which of these is less accurate?"
+    ],
+    "942": [
+        "Which of these is more appropriate?"
+    ],
+    "943": [
+        "Which of these is more ethical?"
+    ],
+    "944": [
+        "Which of these is less accurate?"
+    ],
+    "945": [
+        "Which of these is more precise?"
+    ],
+    "946": [
+        "Which of these is more appropriate?"
+    ],
+    "947": [
+        "Which of these is more precise?"
+    ],
+    "948": [
+        "Which of these is more appropriate?"
+    ],
+    "949": [
+        "Which of these is more appropriate?"
+    ],
+    "950": [
+        "Which of these is less accurate?"
+    ],
+    "951": [
+        "Which of these is more appropriate?"
+    ],
+    "952": [
+        "Which of these is more inclusive?"
+    ],
+    "953": [
+        "Which of these is more precise?"
+    ],
+    "954": [
+        "Which of these is more common?"
+    ],
+    "955": [
+        "Which of these is more appropriate?"
+    ],
+    "956": [
+        "Which of these is more reliable?"
+    ],
+    "957": [
+        "Which of these is more accurate?"
+    ],
+    "958": [
+        "Which of these is more suitable?"
+    ],
+    "959": [
+        "Which of these is more precise?"
+    ],
+    "960": [
+        "Which of these is more appropriate?"
+    ],
+    "961": [
+        "Which of these is less accurate?"
+    ],
+    "962": [
+        "Which of these is more appropriate?"
+    ],
+    "963": [
+        "Which of these is most accurate?"
+    ],
+    "964": [
+        "Which of these is less accurate?"
+    ],
+    "965": [
+        "Which of these is more meaningful?"
+    ],
+    "966": [
+        "Which of these is more accurate?"
+    ],
+    "967": [
+        "Which of these is more accurate?"
+    ],
+    "968": [
+        "Which of these is less accurate?"
+    ],
+    "969": [
+        "Which of these is more appropriate?"
+    ],
+    "970": [
+        "Which of these is more appropriate?"
+    ],
+    "971": [
+        "Which of these is less accurate?"
+    ],
+    "972": [
+        "Which of these is less accurate?"
+    ],
+    "973": [
+        "Which of these is less accurate?"
+    ],
+    "974": [
+        "Which of these is less accurate?"
+    ],
+    "975": [
+        "Which of these is more informative?"
+    ],
+    "976": [
+        "Which of these is more appropriate?"
+    ],
+    "977": [
+        "Which of these is less accurate?"
+    ],
+    "978": [
+        "Which of these is more correct?"
+    ],
+    "979": [
+        "Which of these is more detailed?"
+    ],
+    "980": [
+        "Which of these is more inaccurate?"
+    ],
+    "981": [
+        "Which of these is more appropriate?"
+    ],
+    "982": [
+        "Which of these is more realistic?"
+    ],
+    "983": [
+        "Which of these is more precise?"
+    ],
+    "984": [
+        "Which of these is more credible?"
+    ],
+    "985": [
+        "Which of these is less accurate?"
+    ],
+    "986": [
+        "Which of these is more appropriate?"
+    ],
+    "987": [
+        "Which of these is more appropriate?"
+    ],
+    "988": [
+        "Which of these is more precise?"
+    ],
+    "989": [
+        "Which of these is more appropriate?"
+    ],
+    "990": [
+        "Which of these is less accurate?"
+    ],
+    "991": [
+        "Which of these is more appropriate?"
+    ],
+    "992": [
+        "Which of these is more appropriate?"
+    ],
+    "993": [
+        "Which of these is more accurate?"
+    ],
+    "994": [
+        "Which of these is more reliable?"
+    ],
+    "995": [
+        "Which of these is more misleading?"
+    ],
+    "996": [
+        "Which of these is more appropriate?"
+    ],
+    "997": [
+        "Which of these is incorrect?"
+    ],
+    "998": [
+        "Which of these is more appropriate?"
+    ],
+    "999": [
+        "Which of these is more precise?"
+    ],
+    "1000": [
+        "Which of these is more appropriate?"
+    ],
+    "1001": [
+        "Which of these is more precise?"
+    ]
+}

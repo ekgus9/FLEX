@@ -1,0 +1,22 @@
+group:
+  - flex
+  - flex_stereoset
+task: FLEX_stereoset
+dataset_path: ./data/stereoset/
+test_split: test
+fewshot_split: train
+output_type: multiple_choice
+doc_to_text: "{{question}}"
+doc_to_target: label
+doc_to_choice: choices
+target_delimiter: " "
+dataset_kwargs:
+  data_files: {"train": "FLEX_stereoset_fewshot.csv", "test": "FLEX_stereoset.csv"}
+process_docs: !function utils.process_docs
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+num_fewshot: 5
+metadata:
+  version: 1.0
