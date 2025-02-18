@@ -1,5 +1,7 @@
 # FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models
 
+This repository is the official implementation of the paper "FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models", NAACL 2025.
+
 ## Installation
 
 To install the `lm-eval` package from the github repository, run:
