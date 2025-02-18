@@ -1,6 +1,6 @@
 # FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models
 
-This repository is the official implementation of the paper "FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models", NAACL 2025.
+This repository is the official implementation of the paper "FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models", NAACL-findings 2025.
 
 ## Installation
 
